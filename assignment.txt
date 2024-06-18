@@ -1,0 +1,2 @@
+Implement Api Composition using spring cloud gateway. Any apis can be called, output is not
+important.
